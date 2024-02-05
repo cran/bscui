@@ -1,7 +1,7 @@
 Package: bscui
 Type: Package
 Title: Build SVG Custom User Interface
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: c(
     person(
         "Patrice", "Godard",
@@ -26,11 +26,11 @@ Suggests: knitr, rmarkdown, here, xml2, dplyr, readr, stringr, glue,
 License: GPL-3
 Encoding: UTF-8
 VignetteBuilder: knitr
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-01-11 05:54:19 UTC; pgodard
+Packaged: 2024-02-05 16:03:35 UTC; pgodard
 Author: Patrice Godard [aut, cre, cph]
     (<https://orcid.org/0000-0001-6257-9730>)
 Maintainer: Patrice Godard <patrice.godard@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-01-11 11:00:06 UTC
+Date/Publication: 2024-02-05 16:40:02 UTC
